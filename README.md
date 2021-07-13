@@ -1,7 +1,7 @@
 - 👋  \Olá, Eu sou Anderson, mas vocÊ pode me chamar de Canissu
-- 👀 I’m interested in Kotlin, Python , Analise de  Dados e Aplicações Mobile
+- 👀 I’m interested in Kotlin, Python , Data analysis and Mobile Applications
 - 🌱 I’m currently learning  Kotlin e Python
-- 💞️ I’m looking to collaborate  em projetos supracitados
+- 💞️ I’m looking to collaborate  in Mobile Projects
 - 📫 Você pode me encontrar no Twitter: @AJSCosta
 
 <!---
